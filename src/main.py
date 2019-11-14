@@ -9,4 +9,3 @@ from pybricks.robotics import DriveBase
 
 # Write your program here
 brick.sound.beep()
-  
